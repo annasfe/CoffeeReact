@@ -19,5 +19,5 @@ Deployment done thanks to [this tutorial](https://github.com/gitname/react-gh-pa
     "deploy": "gh-pages -d dist"
 ```
 
-If you already have the app created and connected to a github repo, you only need to do steps 3, 4, 5 and 7.
+If you already have the app created and connected to a github repo, you only need to do the Procedure steps 3, 4, 5, 7 and 8 of the tutorial above (install gh-pages, modify package.json, run `npm run deploy`).
  
